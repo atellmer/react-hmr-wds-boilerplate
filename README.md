@@ -8,7 +8,7 @@ Follow the following steps and you're good to go!
 
 1: Clone repo
 ```
-git clone https://github.com/atellmer/react-boilerplate.git
+git clone https://github.com/atellmer/react-hmr-wds-boilerplate.git
 ```
 2: Go to the directory
 ```
