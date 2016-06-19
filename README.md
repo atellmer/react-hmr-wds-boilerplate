@@ -12,7 +12,7 @@ git clone https://github.com/atellmer/react-hmr-wds-boilerplate.git
 ```
 2: Go to the directory
 ```
-cd react-boilerplate
+cd react-hmr-wds-boilerplate
 ```
 3: Install packages
 ```
